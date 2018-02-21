@@ -1,0 +1,6 @@
+C:\Users\MWK\Desktop\ITI\ITI PROGS\C#\Lab4\Shape\Shape\bin\Debug\Shape.exe.config
+C:\Users\MWK\Desktop\ITI\ITI PROGS\C#\Lab4\Shape\Shape\bin\Debug\Shape.exe
+C:\Users\MWK\Desktop\ITI\ITI PROGS\C#\Lab4\Shape\Shape\bin\Debug\Shape.pdb
+C:\Users\MWK\Desktop\ITI\ITI PROGS\C#\Lab4\Shape\Shape\obj\Debug\Shape.exe
+C:\Users\MWK\Desktop\ITI\ITI PROGS\C#\Lab4\Shape\Shape\obj\Debug\Shape.pdb
+C:\Users\MWK\Desktop\ITI\ITI PROGS\C#\Lab4\Shape\Shape\obj\Debug\Shape.csprojResolveAssemblyReference.cache
